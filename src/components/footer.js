@@ -7,8 +7,7 @@ const Footer = () => (
   <Container as="footer">
     <div className={styles.container}>
       Built with <a href="https://contentful.com/">Contentful</a> and{' '}
-      <a href="https://gatsbyjs.com">Gatsby</a> &middot;{' '}
-      <a href="https://github.com/dreamtheater2195/contentful-gatsby-blog">Source</a>
+      <a href="https://gatsbyjs.com">Gatsby</a> &middot;
     </div>
   </Container>
 )
